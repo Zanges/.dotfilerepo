@@ -3,6 +3,8 @@
 
 export _ZO_DATA_DIR=/zoxidedata
 
+HISTFILE=/commandhistory/.zsh_history
+
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 
